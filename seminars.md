@@ -80,7 +80,7 @@
 
 <br />
 
-<details>
+<details open>
   
   <summary><b>Are there certain things I should cover in my talk?</b></summary>
   
