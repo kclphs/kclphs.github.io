@@ -50,7 +50,7 @@
   
   <br />
   
-  We have been lucky enough to have a range of speakers from impressive backgrounds present at our seminar series. You can find details of these presentations below. 
+  We have been lucky enough to have a range of speakers from impressive backgrounds present at our seminar series. You can find details of these presentations using the link to the left. 
 
 </details>
 
