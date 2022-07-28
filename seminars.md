@@ -20,9 +20,9 @@
   
   <br />
   
-  Our seminars are one-hour long and are held every Wednesday at 3pm in the Autumn and Spring academic terms. 
-  After a short introduction from the session chair, speakers usually present for around 40 minutes, but speaking for a shorter period is also fine. 
-  Following your presentation, the chair will host a Q&A for you, where staff from our department will be able to ask questions about (and hopefully provide useful input on!) your work.    
+  Our seminars are an hour long and are held **every Wednesday** at **3pm** in the Autumn and Spring academic terms. 
+  After a short introduction from the session chair, speakers usually present for around **40 minutes**, but speaking for a shorter period is also fine. 
+  Following your presentation, the chair will host a **Q&A** for you, where staff from our department will be able to ask questions about (and hopefully provide useful input on) your work.    
 
 </details>
 
@@ -34,9 +34,9 @@
   
   <br />
   
-  To make the session as accessible to everyone as possible, our seminars are remote by default. 
+  To make the session as accessible to everyone as possible, our seminars are **remote** by default. 
   Details about how to join the Teams call will be sent to you in advance of the day. 
-  We ask that you join the session at 2.55 if possible, to give you a chance to check your audio and microphone. 
+  We ask that you join the session at **2.55** if possible, to give you a chance to check your audio and microphone. 
   If you do not feel that your remote setup is suitable to give a presentation, we can arrange for the presentation to be given at King’s. 
   Please let us know if this is the case.    
 
@@ -62,7 +62,7 @@
   
   <br />
   
-  We don’t require your slides in advance or anything like that, but a title for your talk, a short biography, and confirmation as to whether you are happy for your talk to be recorded or not, so it can be shared with colleagues who cannot join, would be great.   
+  We don’t require your slides in advance or anything like that, but a **title** for your talk, a **short biography**, and confirmation as to whether you are happy for your talk to be **recorded** or not, so it can be shared with colleagues who cannot join, would be great.   
 
 </details>
 
@@ -74,7 +74,7 @@
   
   <br />
   
-  Most of our core audience attend from KCL, but we often welcome external individuals into our seminar audience too.    
+  Most of our core audience attend from King's, but we often welcome external individuals into our seminar audience too.    
 
 </details>
 
