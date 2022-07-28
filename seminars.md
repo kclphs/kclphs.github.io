@@ -30,7 +30,7 @@
 
 <details>
   
-  <summary><b>What is the format of the seminars? How long will I be speaking for?</b></summary>
+  <summary><b>Are the seminars remote? Can I speak in person? </b></summary>
   
   <br />
   
@@ -46,15 +46,11 @@
 
 <details>
   
-  <summary><b>Are the seminars remote? Can I speak in person?</b></summary>
+  <summary><b>Who has spoken at the seminars previously?</b></summary>
   
   <br />
   
-  To make the session as accessible to everyone as possible, our seminars are remote by default. 
-  Details about how to join the Teams call will be sent to you in advance of the day. 
-  We ask that you join the session at 2.55 if possible, to give you a chance to check your audio and microphone. 
-  If you do not feel that your remote setup is suitable to give a presentation, we can arrange for the presentation to be given at King’s. 
-  Please let us know if this is the case.    
+  We have been lucky enough to have a range of speakers from impressive backgrounds present at our seminar series. You can find details of these presentations below. 
 
 </details>
 
@@ -79,5 +75,18 @@
   <br />
   
   Most of our core audience attend from KCL, but we often welcome external individuals into our seminar audience too.    
+
+</details>
+
+<br />
+
+<details>
+  
+  <summary><b>Are there certain things I should cover in my talk?</b></summary>
+  
+  <br />
+  
+  You are welcome to speak about any aspect of your work that you should wish to. 
+  To foster collaboration between yourself and our department, and vice-versa, we have some suggested <a href="kclphs-seminar-template.pptx">template slides</a> for the end of your presentation, which are entirely optional and you may wish to show before you close and we go to Q&A.    
 
 </details>
