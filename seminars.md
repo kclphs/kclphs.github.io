@@ -58,6 +58,21 @@
 
 <details>
   
+  <summary><b>I'm trying to book a slot to speak, but I can't make any of the dates shown, what should I do?</b></summary>
+  
+  <br />
+  
+  We really appreciate your interest in speaking at our seminar series, and try our best to make available a wide range of dates for you to choose for your talk, as far in advance as possible. 
+  While later dates might be preferable, it is important for us to fill the schedule chronologically. 
+  We therefore ask for you to select from those dates currently shown, if at all possible. 
+  If you have other events scheduled that clash with each of the hour slots shown, please get in touch, and we'll endeavour to let you know as soon as later slots become available.
+
+</details>
+
+<br />
+
+<details>
+  
   <summary><b>What do you need from me in advance?</b></summary>
   
   <br />
