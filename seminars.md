@@ -7,7 +7,7 @@
   <br />
   
   The Department of Population Health Sciences is at the forefront of research into population health and primary care, social sciences and policy, epidemiology, informatics, statistics and health economics. 
-  Based at King’s College London’s Guy’s and Denmark hill campuses, the department comprises over 160 academics working with large datasets to better understand chronic conditions such as stroke, working to highlight and address inequalities in access to treatment, and working to evaluate therapies and different models of care. 
+  Based at King's College London's Guy's and Denmark hill campuses, the department comprises over 160 academics working with large datasets to better understand chronic conditions such as stroke, working to highlight and address inequalities in access to treatment, and working to evaluate therapies and different models of care. 
   More details about the department can be found <a href="https://www.kcl.ac.uk/slcps/our-departments/population-health-sciences">here</a>.   
 
 </details>
@@ -36,8 +36,8 @@
   
   To make the session as accessible to everyone as possible, our seminars are <b>remote</b> by default. 
   Details about how to join the Teams call will be sent to you in advance of the day. 
-  We ask that you join the session at <b>2.55</b> if possible, to give you a chance to check your audio and microphone. 
-  If you do not feel that your remote setup is suitable to give a presentation, we can arrange for the presentation to be given at King’s. 
+  We ask that you join the session at <b>2.55</b> if possible, to give you a chance to check your slides, audio and microphone. 
+  If you do not feel that your remote setup is suitable to give a presentation, we can arrange for the presentation to be given at King's. 
   Please let us know if this is the case.    
 
 </details>
@@ -77,7 +77,24 @@
   
   <br />
   
-  We don’t require your slides in advance or anything like that, but a <b>title</b> for your talk, a <b>short biography</b>, and confirmation as to whether you are happy for your talk to be <b>recorded</b> or not, so it can be shared with colleagues who cannot join, would be great.   
+  We don’t require your slides in advance or anything like that, but a <b>title</b> for your talk, a <b>short biography</b>, and confirmation as to whether you are happy for your talk to be <b>recorded</b> or not, so it can be shared with colleagues who cannot join, would be great. 
+
+</details>
+
+<br />
+
+<details>
+  
+  <summary><b>Can someone present/share my slides for me during the seminar?</b></summary>
+  
+  <br />
+  
+  The only person present at the seminar session in an organisational role will be the session chair, who will have to monitor the attendees throughout the session, pick up any questions that come through and generally ensure everything runs smoothly. 
+  As such, we aren't able to share slides on behalf of our speakers, and ask that they do so directly from their own machines.
+  As noted, a full check will take place prior to the seminar to ensure this can be done successfully.
+  Should the process of screen sharing via Teams be unfamiliar, speakers are directed towards the following guidance: <a href="https://support.microsoft.com/en-us/office/show-your-screen-during-a-meeting-90c84e5a-b6fe-4ed4-9687-5923d230d3a7">Show your screen during a meeting</a>.   
+  Otherwise, speakers are welcome to nominate a delegate to join the call on the day and share slides for them.
+  Please do inform us of this in advance.
 
 </details>
 
