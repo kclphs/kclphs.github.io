@@ -106,7 +106,9 @@
   
   <br />
   
-  Our seminars are attended by people from our department and King's more widely. This usually includes postdocs and academics, as well as students (typically postgraduates). As we are a population health department, this is the typical background of those attending, however we are also often joined by people with a range of other expertise (e.g. computer science).  
+  Our seminars are attended by people from our department and King's more widely. This usually includes postdocs and academics, as well as students (typically postgraduates). As we are a population health department -- which includes digital health; epidemiology; health economics; health inequalities, societies and systems; primary care; rehabilitation and health; stroke; and medical statistics -- this is the typical background of those attending, however we are also often joined by people with a range of other expertise (e.g. computer science).  
+
+  <br />
   
   While most of our core audience attend from King's, we often welcome external individuals into our seminar audience too.   
 
