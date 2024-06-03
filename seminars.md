@@ -2,6 +2,8 @@
 
 <details>
   
+  <a name="department"></a>
+
   <summary><b>Can you tell me more about your department?</b></summary>
   
   <br />
@@ -16,6 +18,8 @@
 
 <details>
   
+  <a name="format"></a>
+
   <summary><b>What is the format of the seminars? How long will I be speaking for?</b></summary>
   
   <br />
@@ -30,6 +34,8 @@
 
 <details>
   
+  <a name="remote"></a>
+
   <summary><b>Are the seminars remote? Can I speak in person? </b></summary>
   
   <br />
@@ -46,6 +52,8 @@
 
 <details>
   
+  <a name="speakers"></a>
+
   <summary><b>Who has spoken at the seminars previously?</b></summary>
   
   <br />
@@ -57,6 +65,8 @@
 <br />
 
 <details>
+
+  <a name="slots"></a>
   
   <summary><b>I'm trying to book a slot to speak, but I can't make any of the dates shown, what should I do?</b></summary>
   
@@ -72,6 +82,8 @@
 <br />
 
 <details>
+
+  <a name="preparation"></a>
   
   <summary><b>What do you need from me in advance?</b></summary>
   
@@ -84,6 +96,8 @@
 <br />
 
 <details>
+
+  <a name="presentation"></a>
   
   <summary><b>Can someone present/share my slides for me during the seminar?</b></summary>
   
@@ -102,6 +116,8 @@
 
 <details>
   
+  <a name="who"></a>
+
   <summary><b>Who usually attends the seminars? Will the presentation only be for colleagues at King's?</b></summary>
   
   <br />
@@ -116,8 +132,10 @@
 
 <br />
 
-<details open>
+<details>
   
+  <a name="content"></a>
+
   <summary><b>Are there certain things I should cover in my talk?</b></summary>
   
   <br />
