@@ -14,7 +14,8 @@
   
   <br />
 
-  Under this setup, often the only individuals present at the record are the speaker ('guest') and the 'host' (an individual from the department), but the podcasts are also sometimes joined live by individuals from the department ('co-hosts') who wish to listen and engage as it is being recorded. 
+  Under this setup, often the only individuals present at the recording are the speaker ('guest') and the 'host' (an individual from the department), but the host may also identify additional individuals from the department to act as 'co-hosts'. 
+  These may be individuals connected to the area in which the guest is currently working. 
   
   <br />
   
@@ -37,7 +38,7 @@
   Each podcast recording will last for 1 hour, and we aim to record at a time that suits the guest in the Autumn and Spring academic terms.
   Unlike a traditional podcast which mostly consists of dialogue, much like a seminar we allocate a portion of the time during our podcasts to a presentation by the guest, with slides, on a topic of their choosing.
   After a short introduction from the host, guests usually present for around <b>40 minutes</b>, but speaking for a shorter period is also fine. 
-  Following the presentation, there will be time for a more podcast-like <b>Q&A</b>, where the host -- and any other individuals who have chosen to join the recording -- will be able to ask questions about (and hopefully provide useful input on) the work presented.    
+  Following the presentation, there will be time for a more podcast-like <b>Q&A</b>, where the host and any co-hosts will be able to ask questions about (and hopefully provide useful input on) the work presented.    
 
 </details>
 
@@ -50,6 +51,7 @@
   <summary><b>How are your podcast recordings distributed, and who watches them?</b></summary>
   
   <br />
+
   Following the recording of each podcast it is posted to the Department of Population Health Sciences' external-facing webpage, which is backed by King's College London's YouTube channel.
   If, however, a guest does not wish for their recording to be made public, we will only share the podcast internally (e.g. via KEATS, a platform internal to KCL).
   Please inform us if you do not wish your podcast to be shared externally.
@@ -129,7 +131,7 @@
   
   If you would like to provide us with an overview of what you plan to present during the podcast so we can translate this into a <b>title</b> for the podcast, or provide us with a title directly, you are welcome to. 
   This can then be shared with potential co-hosts.
-  You may also wish to provide us with a <b>biography</b>, so this can guide the introduction given at the start of the recording.
+  It would also be good if you could provide us with a <b>biography</b>, so this can guide the introduction given at the start of the recording.
 
 </details>
 
